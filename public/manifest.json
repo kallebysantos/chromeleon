@@ -1,0 +1,17 @@
+{
+  "name": "Chromeleon",
+  "description": "A simple color-picker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Chromeleon"
+  },
+  "icons": {
+    "16": "chameleon-16.png",
+    "32": "chameleon-32.png",
+    "128": "chameleon-128.png"
+  },
+  "author": "kalleby_santos@hotmail.com",
+  "homepage_url": "https://github.com/kallebysantos/chromeleon"
+}
